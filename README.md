@@ -16,8 +16,8 @@ Root Directory/
 ```
 # Resource
 ### Youtube
-[Process OpenCV](https://www.youtube.com/watch?v=AxIc-vGaHQ0&ab_channel=RobMulla)
-[TensorFlow](https://www.youtube.com/watch?v=3xualF8abC4&t=110s&ab_channel=TensorFlow)
+[Process OpenCV](https://www.youtube.com/watch?v=AxIc-vGaHQ0&ab_channel=RobMulla)  
+[TensorFlow](https://www.youtube.com/watch?v=3xualF8abC4&t=110s&ab_channel=TensorFlow)  
 ### Kaggle
 [Starter: UCF101 with PyTorch](https://www.kaggle.com/code/pevogam/starter-ucf101-with-pytorch)
 ### Document
